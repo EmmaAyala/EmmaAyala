@@ -17,13 +17,13 @@ Abajo presento el último proyecto en el que estuve trabajando :point_down:
 
 -Desarrolle una aplicación de escritorio para un centro de jubilados completo (solicitado por mis abuelos) durante 2 meses en solitario.
 
-![](images/1-Login.png)
+![1](images/1-Login.png)
 
-![](images/2-Menú Normal.png)
+![2](images/2-Menú Normal.png)
 
-![](images/3-Gestión Socios.png)
+![3](images/3-Gestión Socios.png)
 
-![](images/4-Gestión Pagos.png)
+![4](images/4-Gestión Pagos.png)
 
 -[Link al Demo del Proyecto - Youtube](https://youtu.be/uRA9luuZngg)
 
