@@ -1,9 +1,9 @@
 ![header](images/Untitled.png)
 
-# **Fullstack Developer** :computer: :penguin:
+# **Front-End Developer** :computer: :penguin:
 ¡Hola! Me llamo Emmanuel, soy Front-End Developer (próximamente Full Stack) con un gusto intenso por diseñar GUI hechas a medida, de forma apasionada y que representen el 100% de la calidad de un Software.
 
-Tengo 21 años, acabo de graduarme y durante la pandemia pude mejorar mi formación en todas las distintas áreas de mi vida profesional además de la personal.
+Tengo 21 años, acabo de graduarme y durante la pandemia pude mejorar mi formación en todas las distintas áreas de mi vida personal y profesional.
 
 Amo la música, la ilustración, la producción de audio y las ediciones audiovisuales. Me gusta superarme a mí mismo siempre tratando de ser mi mejor versión, también me encanta el trabajo en equipo.
 
@@ -13,17 +13,17 @@ Me enamoré de la utilidad, el arte inimaginable y la magia que desprende la pro
 
 Abajo presento el último proyecto en el que estuve trabajando :point_down:
 
-## **Principal project** :rocket:
+## **Main project** :rocket:
 
--Desarrolle una aplicación de escritorio para un centro de jubilados completo (solicitado por mis abuelos) durante 2 meses en solitario.
+-Desarrollé una aplicación de escritorio para un centro de jubilados completo (solicitado por mis abuelos) durante 2 meses en solitario.
 
 ![1](images/1-Login.png)
 
-![2](images/2-MenúNormal.png)
+![2](images/2-Menu.png)
 
-![3](images/3-Gestión Socios.png)
+![3](images/3-Partners.png)
 
-![4](images/4-Gestión Pagos.png)
+![4](images/4-Payments.png)
 
 -[Link al Demo del Proyecto - Youtube](https://youtu.be/uRA9luuZngg)
 
