@@ -19,7 +19,7 @@ Abajo presento el último proyecto en el que estuve trabajando :point_down:
 
 ![1](images/1-Login.png)
 
-![2](images/2-Menú Normal.png)
+![2](images/2-MenúNormal.png)
 
 ![3](images/3-Gestión Socios.png)
 
