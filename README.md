@@ -11,11 +11,11 @@ Me enamoré de la utilidad, el arte inimaginable y la magia que desprende la pro
 
 ---
 
-Abajo presento el último proyecto en el que estuve trabajando :point_down:
+Abajo presento uno de los proyectos en el cual estuve trabajando, también estoy desarrollando otros proyectos los cuales mostraré más adelante al terminarlos :point_down:
 
 ## **Main project** :rocket:
 
--Desarrollé una aplicación de escritorio para un centro de jubilados completo (solicitado por mis abuelos) durante 2 meses en solitario.
+-Desarrollé una aplicación de escritorio para un centro de jubilados completo (solicitado por mis abuelos) durante 2 meses en solitario, la misma fué también mi tesis.
 
 ![1](images/1-Login.png)
 
@@ -25,7 +25,7 @@ Abajo presento el último proyecto en el que estuve trabajando :point_down:
 
 ![4](images/4-Payments.png)
 
--[Link al Demo del Proyecto - Youtube](https://youtu.be/uRA9luuZngg)
+-[Link al Demo del Software - Youtube](https://youtu.be/uRA9luuZngg)
 
 
 Gracias por su Visita.
