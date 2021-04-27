@@ -9,7 +9,7 @@ Amo la música, la ilustración, la producción de audio y las ediciones audiovi
 
 Me enamoré de la utilidad, el arte inimaginable y la magia que desprende la propia programación.
 
-Si bien conozco el MVC (Model-View-Controller), aún sigo profundizando en el Back-End ya que todos los días en el trabajo aprendo cosas nuevas.
+Sé de todo un poco y me adapto a multiples tecnologías y lenguajes, sin embargo, estoy mas especializado en .Net. La arquitectura de software que utilizo es MVC (Model-View-Controller) auque aún sigo profundizando en el Back-End de dicha arquitectura ya que todos los días aprendo cosas nuevas en el trabajo.
 
 Mi enfoque son el cumplimiento de metas y objetivos, las buenas prácticas de programación y el código limpio.
 
