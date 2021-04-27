@@ -1,7 +1,7 @@
 ![header](images/Untitled.png)
 
-# **Un Full Stack Developer apasionado por la experiencia del usuario** :computer: :penguin:
-¡Hola! Me llamo Emmanuel, recientemente Full-Stack Developer (en contínua formación) con un gusto intenso por diseñar GUIs hechas a medida y que representen el 100% de la calidad de un Software.
+# **¡Hola!** :computer: :penguin:
+Me llamo Emmanuel, recientemente Full-Stack Developer (en contínua formación) con un gusto intenso por diseñar GUIs hechas a medida y que representen el 100% de la calidad de un Software.
 
 Tengo 21 años, acabo de graduarme y durante la pandemia pude mejorar mi formación en todas las distintas áreas de mi vida personal y profesional.
 
