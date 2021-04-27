@@ -1,6 +1,6 @@
 ![header](images/Untitled.png)
 
-# **¡Hola!** :computer: :penguin:
+# **¡Hola!** :penguin:
 Me llamo Emmanuel, recientemente Full-Stack Developer (en contínua formación) con un gusto intenso por diseñar GUIs hechas a medida y que representen el 100% de la calidad de un Software.
 
 Tengo 21 años, acabo de graduarme y durante la pandemia pude mejorar mi formación en todas las distintas áreas de mi vida personal y profesional.
@@ -15,19 +15,34 @@ Mi enfoque son el cumplimiento de metas y objetivos, las buenas prácticas de pr
 
 ---
 
-Abajo presento uno de los proyectos en el cual estuve trabajando, también estoy desarrollando otros proyectos los cuales mostraré más adelante al terminarlos :point_down:
+## **Proyectos Laborales** :rocket:
+A continuación presento uno de los proyectos en el cual estuve trabajando como miembro del equipo Neps :point_down:
 
-## **Main project** :rocket:
+Participé en el desarrollo de la página web del Paula Albarracín de Sarmiento sobretodo en el Front-End y un poco en el Back-End
 
--Desarrollé una aplicación de escritorio para un centro de jubilados completo (solicitado por mis abuelos) durante 2 meses en solitario, la misma fué también mi tesis.
+![1](images/IPAS-1-Index.png)
 
-![1](images/1-Login.png)
+![2](images/IPAS-2-Novedades.png)
 
-![2](images/2-Menu.png)
+![3](images/IPAS-3-Cursos.png)
 
-![3](images/3-Partners.png)
+![4](images/IPAS-4-Contacto.png)
 
-![4](images/4-Payments.png)
+-[Link al Demo de la Página Web](http://nepsdns.no-ip.biz/pagina_web_ipas)
+
+
+## **Proyectos Personales** :computer:
+Desarrollé una aplicación de escritorio para un centro de jubilados completo (solicitado por mis abuelos) durante 2 meses en solitario, la misma fué también mi tesis.
+
+También estoy desarrollando otros proyectos los cuales mostraré más adelante al terminarlos :point_down:
+
+![1](images/Júbilo-1-Login.png)
+
+![2](images/Júbilo-2-Menu.png)
+
+![3](images/Júbilo-3-Partners.png)
+
+![4](images/Júbilo-4-Payments.png)
 
 -[Link al Demo del Software - Youtube](https://youtu.be/uRA9luuZngg)
 
