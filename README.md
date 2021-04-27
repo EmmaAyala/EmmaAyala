@@ -1,13 +1,17 @@
 ![header](images/Untitled.png)
 
-# **Front-End Developer** :computer: :penguin:
-¡Hola! Me llamo Emmanuel, soy Front-End Developer (próximamente Full Stack) con un gusto intenso por diseñar GUI hechas a medida, de forma apasionada y que representen el 100% de la calidad de un Software.
+# **Un Full Stack Developer apasionado por la experiencia del usuario** :computer: :penguin:
+¡Hola! Me llamo Emmanuel, recientemente Full-Stack Developer (en contínua formación) con un gusto intenso por diseñar GUIs hechas a medida y que representen el 100% de la calidad de un Software.
 
 Tengo 21 años, acabo de graduarme y durante la pandemia pude mejorar mi formación en todas las distintas áreas de mi vida personal y profesional.
 
 Amo la música, la ilustración, la producción de audio y las ediciones audiovisuales. Me gusta superarme a mí mismo siempre tratando de ser mi mejor versión, también me encanta el trabajo en equipo.
 
 Me enamoré de la utilidad, el arte inimaginable y la magia que desprende la propia programación.
+
+Si bien conozco el MVC (Model-View-Controller), aún sigo profundizando en el Back-End ya que todos los días en el trabajo aprendo cosas nuevas.
+
+Mi enfoque son el cumplimiento de metas y objetivos, las buenas prácticas de programación y el código limpio.
 
 ---
 
